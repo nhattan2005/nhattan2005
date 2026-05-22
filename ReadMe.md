@@ -4,10 +4,6 @@
   <b>Computer Science Honors Student @ VNU-HCM University of Information Technology</b>
 </p>
 
-<p align="center">
-  Passionate about Artificial Intelligence, Machine Learning, Computer Vision, NLP, and Multimodal Retrieval.
-</p>
-
 ---
 
 ## About Me
